@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### I'm Ghassen a Software and Full Stack Developer[MERN & Django/ReactJS]
+### I'm Ghassen a Software and Full Stack Developer [MERN & Django/ReactJS]
 
 - 🔭 I’m currently - Web Developer intern at VMD Solutions 
 - 🌱 I’m currently learning SpringBoot and microservice architecture
@@ -14,4 +14,4 @@
 - OS: Ubuntu, Windows.
 
 ### Connect with me at:
-[<a align = "left" width="22px" href="https://linkedin.com/in/codeSTACKr#gh-dark-mode-only" />][Linkedin]
+[<img align = "left" width="22px" href="https://image.similarpng.com/very-thumbnail/2020/05/Icon-Linkedin-In-circle-PNG.png" />][Linkedin]
