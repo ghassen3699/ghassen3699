@@ -9,7 +9,7 @@
 ### ✨ Skills ✨
 - Langages: Python, JavaScript, Java, C, HTML/CSS.
 - Framewoks: Django/Django-Rest, NodeJS, ReactJS, ExpressJS.
-- SGBD: MySQL, SQLOracle, MongoDB, SQLite, PL/SQL.
+- SGBD: MySQL, Oracle SQL, MongoDB, SQLite, PL/SQL.
 - Tools: Docker, Kubernates, Git, Postman, Huroku, VSCode.
 - OS: Ubuntu, Windows.
 
