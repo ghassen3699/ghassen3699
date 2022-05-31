@@ -14,4 +14,4 @@
 - OS: Ubuntu, Windows.
 
 ### Connect with me at:
-[<img align = "left" width="22px" src="https://image.similarpng.com/very-thumbnail/2020/05/Icon-Linkedin-In-circle-PNG.png" />][Linkedin]
+[<img align = "left" width="22px" src="https://github.com/codeSTACKr/codeSTACKr/raw/master/img/linkedin-dark.svg" />][Linkedin]
