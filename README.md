@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 
+### I'm Ghassen a Software and Full Stack Developer[MERN & Django/ReactJS]
 
-<!--
-**ghassen3699/ghassen3699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently - Web Developer intern at VMD Solutions 
+- 🌱 I’m currently learning SpringBoot and microservice architecture
+- 📫 Reach me on Gmail: << ghassenkhamassi@gmail.com >>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ Skills ✨
+- Langages: Python, JavaScript, Java, C, HTML/CSS.
+- Framewoks: Django/Django-Rest, NodeJS, ReactJS, ExpressJS.
+- SGBD: MySQL, SQLOracle, MongoDB, SQLite, PL/SQL.
+- Tools: Docker, Kubernates, Git, Postman, Huroku, VSCode.
+- OS: Ubuntu, Windows.
+
+### Connect with me at:
+[<a align = "left" width="22px" href="https://linkedin.com/in/codeSTACKr#gh-dark-mode-only" />][Linkedin]
