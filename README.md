@@ -2,7 +2,7 @@
 ### I'm Ghassen a Software and Full Stack Developer [MERN & Django/ReactJS]
 
 - 🔭 I’m currently - Web Developer intern at VMD Solutions 
-- 🌱 I’m currently learning SpringBoot and microservice architecture
+- 🌱 I’m currently learning SpringBoot and microservices architecture
 - 📫 Reach me on Gmail: << ghassenkhamassi@gmail.com >>
 
 
