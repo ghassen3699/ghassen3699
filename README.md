@@ -12,7 +12,6 @@
 - SGBD: MySQL, Oracle SQL, MongoDB, SQLite, PL/SQL.
 - Scripting language: Bash Script, PowerShell.
 - Devops Tools: Docker, Git, Nexus, Jenkins.
-- Tools: Postman, Huroku, VSCode.
 - OS: Linux Ubuntu, Windows.
 
 ### Connect with me at:
