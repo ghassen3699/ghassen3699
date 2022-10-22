@@ -2,7 +2,7 @@
 ### I'm Ghassen a Full Stack Developer (MERN - Django/ReactJS) and SharePoint Framework (SPFx) Developer
 
 - 🔭 I’m currently - Software Developer at Alight MEA
-- 🌱 I'm currently learning Devops <img src="https://w7.pngwing.com/pngs/464/659/png-transparent-devops-computer-icons-agile-software-development-others-miscellaneous-text-orange-thumbnail.png" width="20" height="20"></img> tools for building CI/CD pipelines and understand how to build, Add, Update repositories and deploy projects.
+- 🌱 I'm currently learning Devops <img src="[https://w7.pngwing.com/pngs/464/659/png-transparent-devops-computer-icons-agile-software-development-others-miscellaneous-text-orange-thumbnail.png](https://e7.pngegg.com/pngimages/149/681/png-clipart-devops-amazon-web-services-continuous-delivery-cloud-computing-continuous-integration-cloud-computing-devops-amazon-web-services.png)" width="20" height="20"></img> tools for building CI/CD pipelines and understand how to build, Add, Update repositories and deploy projects.
 - 📫 Reach me on Gmail: << ghassenkhamassi@gmail.com >>
 
 
