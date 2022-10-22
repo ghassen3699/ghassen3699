@@ -7,7 +7,7 @@
 
 
 ### ✨ Skills ✨
-- Langages: Python, JavaScript, Java, C, HTML/CSS.
+- Langages: Python, JavaScript, TypeScript, Java.
 - Framewoks: Django/Django-Rest, NodeJS, ReactJS, ExpressJS, SharePoint Framework (SPFx).
 - SGBD: MySQL, Oracle SQL, MongoDB, SQLite, PL/SQL.
 - Scripting language: Bash Script, PowerShell.
