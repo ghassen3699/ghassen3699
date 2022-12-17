@@ -1,7 +1,7 @@
 ### Hi there 👋 
-### I'm Ghassen a Full Stack Developer (MERN - Django/ReactJS) and SharePoint Framework (SPFx) Developer
+### I'm Ghassen a Full-Stack Developer (MERN - Django/ReactJS) and SharePoint Consultant
 
-- 🔭 I’m currently - Software Developer at Alight MEA
+- 🔭 I’m currently - SharePoint Developer at Alight MEA
 - 🌱 I'm currently learning Devops tools for building CI/CD pipelines and understand how to build, Add, Update repositories and deploy projects.
 - 📫 Reach me on Gmail: << ghassenkhamassi@gmail.com >>
 
@@ -11,7 +11,7 @@
 - Framewoks: Django/Django-Rest, NodeJS, ReactJS, ExpressJS, SharePoint Framework (SPFx).
 - SGBD: MySQL, Oracle SQL, MongoDB, SQLite, PL/SQL.
 - Scripting language: Bash Script, PowerShell.
-- Devops Tools: Docker, Git, Nexus, Jenkins.
+- Devops Tools: Docker/Docker-Compose, Git/Github, Nexus, Jenkins.
 - OS: Linux Ubuntu, Windows.
 
 ### Connect with me at:
