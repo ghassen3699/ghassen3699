@@ -11,7 +11,8 @@
 - Framewoks: Django/Django-Rest, NodeJS, ReactJS, ExpressJS, SharePoint Framework (SPFx).
 - SGBD: MySQL, Oracle SQL, MongoDB, SQLite, PL/SQL.
 - Scripting language: Bash Script, PowerShell.
-- Devops Tools: Docker/Docker-Compose, Git/Github, Nexus, Jenkins.
+- Devops Tools: Docker/Docker-Compose, Kubernetes, Git/Github, Nexus, Jenkins.
+- Cloud Providers: Amazon Web Services (AWS).
 - OS: Linux Ubuntu, Windows.
 
 ### Connect with me at:
