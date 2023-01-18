@@ -16,4 +16,4 @@
 - OS: Linux Ubuntu, Windows.
 
 ### Connect with me at:
-<a href="https://www.linkedin.com/in/ghassen-khammassi-766b261b6/"><img align = "left" width="22px" src="https://github.com/codeSTACKr/codeSTACKr/raw/master/img/linkedin-dark.svg" /></a>
+<a href="https://www.linkedin.com/in/ghassen-khamassi-766b261b6/"><img align = "left" width="22px" src="https://github.com/codeSTACKr/codeSTACKr/raw/master/img/linkedin-dark.svg" /></a>
