@@ -7,9 +7,9 @@
 
 
 ### ✨ Skills ✨
-- Langages: Python, JavaScript, TypeScript, Java.
-- Framewoks: Django/Django-Rest, NodeJS, ReactJS, ExpressJS, SharePoint Framework (SPFx).
-- SGBD: MySQL, Oracle SQL, MongoDB, SQLite, PL/SQL.
+- Langages: Python, JavaScript, TypeScript, Java, C#.
+- Framewoks: Django/Django-Rest, NodeJS, ReactJS, ExpressJS, SharePoint Framework (SPFx), ASP.NET .
+- SGBD: MySQL, Oracle SQL, MongoDB, SQLite, PL/SQL, Microsoft SQL Server.
 - Scripting language: Bash Script, PowerShell.
 - Devops Tools: Docker/Docker-Compose, Kubernetes, Git/Github, Nexus, Jenkins.
 - Cloud Providers: Amazon Web Services (AWS).
