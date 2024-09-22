@@ -8,11 +8,11 @@
 
 ### ✨ Skills ✨
 - Langages: Python, JavaScript, TypeScript, Java, C#.
-- Framewoks: Django/Django-Rest, NodeJS, ReactJS, AngularJS, ExpressJS, SharePoint Framework (SPFx), SpringBoot .
+- Framewoks: Django/Django-Rest, NodeJS, ReactJS, AngularJS, ExpressJS, NextJS, NestJS, Serverless Framework, SharePoint Framework (SPFx), SpringBoot .
 - SGBD: MySQL, Oracle SQL, MongoDB, SQLite, PL/SQL, Microsoft SQL Server.
 - Scripting language: Bash Script, PowerShell.
-- Devops Tools: Docker/Docker-Compose, Kubernetes, Git/Github, Nexus, Jenkins.
-- Cloud Providers: Microsoft Azure.
+- Devops Tools: Docker/Docker-Compose, Kubernetes, Git/Github, Nexus, Jenkins, Bitbucket, Gitlab-CI.
+- Cloud Providers: Microsoft Azure, AWS.
 - OS: Linux Ubuntu, Windows.
 - Microsoft Technologies : Microsoft SharePoint Online, Microsoft SharePoint Framework (SPFX), Power Automate, Power Apps.
 
