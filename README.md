@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### I'm Ghassen a Full-Stack Developer and Microsoft SharePoint Consultant
+### I'm Ghassen a Full-Stack/Software Engineer & Microsoft SharePoint Developer
 
 - 🔭 I’m currently - Microsoft SharePoint Consultant at Alight MEA
 - 🌱 I'm currently learning Devops tools for building CI/CD pipelines and understand how to build, Add, Update repositories and deploy projects.
