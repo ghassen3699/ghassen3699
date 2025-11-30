@@ -2,7 +2,7 @@
 ## I'm **Ghassen Khamassi** — DevRel Engineer & Software Engineer at **Infor**
 
 I help developers build better software by creating tools, documentation, demos, and automation workflows.  
-Passionate about backend development, DevOps, cloud architectures, and improving the overall developer experience.
+Passionate about Software development, Artificial Intelligence, LLM models, DevOps, cloud architectures, and improving the overall developer experience.
 
 ---
 
