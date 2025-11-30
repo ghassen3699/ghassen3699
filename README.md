@@ -1,19 +1,77 @@
-### Hi there 👋 
-### I'm Ghassen a DevRel Engineer - Software Engineer
+# 👋 Hi there  
+## I'm **Ghassen Khamassi** — DevRel Engineer & Software Engineer at **Infor**
 
-- 🔭 I’m currently - Developer Relations Engineer at Infor
-- 🌱 I'm currently learning Devops tools for building CI/CD pipelines and understand how to build, Add, Update repositories and deploy projects.
-- 📫 Reach me on Gmail: << ghassenkhamassi@gmail.com >>
+I help developers build better software by creating tools, documentation, demos, and automation workflows.  
+Passionate about backend development, DevOps, cloud architectures, and improving the overall developer experience.
 
+---
 
-### ✨ Skills ✨
-- Langages: Python, JavaScript, TypeScript, Java, C#.
-- Framewoks: Django/Django-Rest, NodeJS, ReactJS, AngularJS, ExpressJS, NextJS, NestJS, Serverless Framework, SharePoint Framework (SPFx), SpringBoot .
-- SGBD: MySQL, Oracle SQL, MongoDB, SQLite, PL/SQL, Microsoft SQL Server.
-- Scripting language: Bash Script, PowerShell.
-- Devops Tools: Docker/Docker-Compose, Kubernetes, Git/Github, Nexus, Jenkins, Bitbucket, Gitlab-CI.
-- Cloud Providers: Microsoft Azure, AWS.
-- OS: Linux Ubuntu, Windows.
+## 🚀 About Me
+- 🎯 Developer Relations Engineer at **Infor**  
+- 🌱 Learning advanced DevOps: CI/CD, automation, cloud deployments  
+- 🛠 Love working on APIs, microservices, SDKs, and technical demos  
+- 🤝 Open to collaborative and open-source contributions  
+- 📫 Reach me at: **ghassenkhamassi@gmail.com**
 
-### Connect with me at:
-<a href="https://www.linkedin.com/in/ghassen-khamassi-766b261b6/"><img align = "left" width="22px" src="https://github.com/codeSTACKr/codeSTACKr/raw/master/img/linkedin-dark.svg" /></a>
+---
+
+## ✨ Skills & Technologies
+
+### 🧑‍💻 Languages
+`Python` · `JavaScript` · `TypeScript` · `Java` · `C#`
+
+### ⚙️ Frameworks & Libraries
+`Django` · `Django REST` · `Node.js` · `Express` · `React` · `AngularJS` ·  
+`Next.js` · `NestJS` · `Serverless Framework` · `SPFx` · `Spring Boot`
+
+### 🗄️ Databases
+`MySQL` · `Oracle SQL` · `SQLite` · `MongoDB` · `PL/SQL` · `SQL Server`
+
+### 🧩 Scripting
+`Bash` · `PowerShell`
+
+### 🛠 DevOps & Tools
+`Docker` · `Docker Compose` · `Kubernetes` · `Git/GitHub` · `Jenkins` ·  
+`Nexus` · `Bitbucket` · `GitLab CI`
+
+### ☁️ Cloud Providers
+`Microsoft Azure` · `AWS`
+
+### 💻 Operating Systems
+`Ubuntu Linux` · `Windows`
+
+---
+
+## 🧠 What I’m Learning
+- Infrastructure as Code (Terraform)  
+- Cloud-native patterns & Event-Driven Architecture  
+- Advanced Kubernetes  
+- AI-assisted developer experience tooling  
+
+---
+
+## 🧩 Featured Projects
+- 🚀 **ShareWork** – Office 365 & SharePoint collaboration platform  
+- 📦 **SPFx WebParts** – Custom modern WebParts for intranet solutions  
+- 🌐 **REST API Platform** – Backend system using NestJS & PostgreSQL  
+- ☁️ **CI/CD Pipelines** – Automated deployments with GitHub Actions & Jenkins  
+
+---
+
+## 📊 GitHub Stats  
+![Ghassen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghassenkhamassi&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghassenkhamassi&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak  
+![GitHub Streak](https://streak-stats.demolab.com/?user=ghassenkhamassi&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
+<a href="https://www.linkedin.com/in/ghassen-khamassi-766b261b6/">
+  <img width="22px" src="https://github.com/codeSTACKr/codeSTACKr/raw/master/img/linkedin-dark.svg"/>
+</a>
+
