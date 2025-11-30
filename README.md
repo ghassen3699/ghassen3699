@@ -1,9 +1,9 @@
 ### Hi there 👋 
-### I'm Ghassen a Full-Stack/Software Engineer
+### I'm Ghassen a DevRel Engineer - Software Engineer
 
-- 🔭 I’m currently - Development Technical lead & Software Engineer at Alight MEA
+- 🔭 I’m currently - Developer Relations Engineer at Infor
 - 🌱 I'm currently learning Devops tools for building CI/CD pipelines and understand how to build, Add, Update repositories and deploy projects.
-- 📫 Reach me on Gmail: << ghassenkhamassi@gmail.com >> Or << ghassen.khamessi@alight.eu >>
+- 📫 Reach me on Gmail: << ghassenkhamassi@gmail.com >>
 
 
 ### ✨ Skills ✨
