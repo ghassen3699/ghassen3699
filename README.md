@@ -51,7 +51,7 @@ Passionate about Software development, Artificial Intelligence, LLM models, DevO
 ---
 
 ## 🌐 Connect with Me
-<a href="https://www.linkedin.com/in/ghassen-khamassi-766b261b6/">
+<a href="https://tn.linkedin.com/in/ghassen-khamassi-766b261b6">
   <img width="22px" src="https://github.com/codeSTACKr/codeSTACKr/raw/master/img/linkedin-dark.svg"/>
 </a>
 
