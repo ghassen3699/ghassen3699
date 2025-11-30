@@ -50,26 +50,6 @@ Passionate about backend development, DevOps, cloud architectures, and improving
 
 ---
 
-## 🧩 Featured Projects
-- 🚀 **ShareWork** – Office 365 & SharePoint collaboration platform  
-- 📦 **SPFx WebParts** – Custom modern WebParts for intranet solutions  
-- 🌐 **REST API Platform** – Backend system using NestJS & PostgreSQL  
-- ☁️ **CI/CD Pipelines** – Automated deployments with GitHub Actions & Jenkins  
-
----
-
-## 📊 GitHub Stats  
-![Ghassen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghassenkhamassi&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghassenkhamassi&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak  
-![GitHub Streak](https://streak-stats.demolab.com/?user=ghassenkhamassi&theme=tokyonight)
-
----
-
 ## 🌐 Connect with Me
 <a href="https://www.linkedin.com/in/ghassen-khamassi-766b261b6/">
   <img width="22px" src="https://github.com/codeSTACKr/codeSTACKr/raw/master/img/linkedin-dark.svg"/>
