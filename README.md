@@ -7,7 +7,7 @@ Passionate about Software development, Artificial Intelligence, LLM models, DevO
 ---
 
 ## 🚀 About Me
-- 🎯 Developer Relations Engineer at **Infor**  
+- 🎯 Developer Relations | Software Engineer at **Infor**  
 - 🌱 Learning advanced DevOps: CI/CD, automation, cloud deployments  
 - 🛠 Love working on APIs, microservices, SDKs, and technical demos  
 - 🤝 Open to collaborative and open-source contributions  
